@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/32095
     wikipedia: http://fi.wikipedia.org/wiki/Olli_Wuorinen
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/31264#Salmelan-hein-talkoot
 gutenberg_issued: '2010-02-13'
 gutenberg_type: Text
 identifiers:
